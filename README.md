@@ -22,6 +22,8 @@ um desenvolvedor fullstack, dominando tanto o frontend quanto o backend. Tenho 1
  
 ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
  
-<div> 
+<div>
+ <a href="https://instagram.com/luizf_diass" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/S9rQAXaJ" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
  <a href = "mailto:luizfdias027@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
