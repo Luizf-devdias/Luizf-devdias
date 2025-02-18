@@ -1,5 +1,11 @@
 ## Bem-vindo(a) ao perfil do Luiz Felipe 😁
+### 🚀 Iniciante no desenvolvimento web | 🎯 Estudando Frontend | 🔥 Rumo ao Fullstack <br>
 
+#### Sobre mim 💻
+Sou apaixonado por tecnologia e orátoria atualmente estou focado em aprender HTML, CSS e JavaScript. Meu objetivo é me tornar <br>
+um desenvolvedor fullstack, dominando tanto o frontend quanto o backend. Tenho 19 anos e sou capixaba 📌
+
+<br>
  <div>
    <a href="https://github.com/Luizf-devdias">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luizf-devdias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
