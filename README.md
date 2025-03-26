@@ -3,7 +3,7 @@
 
 #### Sobre mim 💻
 Sou apaixonado por tecnologia e orátoria atualmente estou focado em aprender HTML, CSS e JavaScript. Meu objetivo é me tornar <br>
-um desenvolvedor fullstack, dominando tanto o frontend quanto o backend. Tenho 19 anos e sou capixaba 📌
+um desenvolvedor fullstack, dominando tanto o frontend quanto o backend. Atualmente estou avançado no HTML e dominando muito bem o CSS. Tenho 20 anos e sou capixaba 📌
 
 <br>
  <div>
