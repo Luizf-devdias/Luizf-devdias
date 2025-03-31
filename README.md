@@ -41,10 +41,10 @@
 
 ###
 
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTk1dm1yZThlcmhwZnN5ZTYxaXdxeGxjcXE2ZDRqbHpuc3M0MTdlNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/Luizf-devdias/Luizf-devdias/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Luizf-devdias/Luizf-devdias/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Luizf-devdias/Luizf-devdias/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Luizf-devdias/Luizf-devdias/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
