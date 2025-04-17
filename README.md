@@ -26,6 +26,9 @@
 ###
 
 <div align="left">
+  <a href="https://www.frontendmentor.io/profile/Luizf-devdias" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=FrontendMentor&logo=frontendmentor&label=&color=3e54a3&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="frontend mentor logo"  />
+  </a>
   <a href="https://www.instagram.com/mkt.luizf/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
