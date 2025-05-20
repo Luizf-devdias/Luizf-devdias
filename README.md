@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">🚀 Iniciante no desenvolvimento web | 🎯 Estudando Frontend | 🔥 Rumo ao Fullstack<br><br>Sobre mim 💻<br>Sou apaixonado por tecnologia e orátoria atualmente estou focado em aprender HTML, CSS e JavaScript. Meu objetivo é me tornar um desenvolvedor fullstack, dominando tanto o frontend quanto o backend. Atualmente estou avançado no HTML e dominando muito bem o CSS. Tenho 20 anos e sou capixaba 📌</h4>
+<h4 align="left">🚀 Iniciante no desenvolvimento web | 🎯 Estudando Frontend | 🔥 Rumo ao Fullstack<br><br>Sobre mim 💻<br>Sou apaixonado por tecnologia e orátoria atualmente estou cursando engenharia de software na uniube e estou focado em aprender HTML, CSS e JavaScript. Meu objetivo é me tornar um desenvolvedor fullstack, dominando tanto o frontend quanto o backend. Atualmente estou avançado no HTML e dominando muito bem o CSS. Tenho 20 anos e sou capixaba 📌</h4>
 
 ###
 
